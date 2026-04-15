@@ -40,4 +40,5 @@ Execute the script (F5).
 The database OyunSatisDB, all tables, relationships, and sample test data will be created automatically.
 
 📧 Contact
+
 Developed by Arda Köksal LinkedIn | GitHub
