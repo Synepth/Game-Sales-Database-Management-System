@@ -29,7 +29,7 @@ Language: T-SQL (Transact-SQL)
 Environment: Developed using SSMS (SQL Server Management Studio)
 
 💻 How to Install & Run
-Download the GameSalesDB_FinalProject.sql file from this repository.
+Download the GameSalesDB_Script.sql file from this repository.
 
 Open SQL Server Management Studio (SSMS).
 
